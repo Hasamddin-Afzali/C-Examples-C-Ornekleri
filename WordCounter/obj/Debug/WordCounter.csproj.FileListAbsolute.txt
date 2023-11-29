@@ -1,0 +1,8 @@
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\obj\Debug\WordCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\WordCounter\obj\Debug\WordCounter.pdb
