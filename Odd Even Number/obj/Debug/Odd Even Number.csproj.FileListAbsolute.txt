@@ -1,0 +1,8 @@
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\bin\Debug\Odd Even Number.exe.config
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\bin\Debug\Odd Even Number.exe
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\bin\Debug\Odd Even Number.pdb
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\obj\Debug\Odd Even Number.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\obj\Debug\Odd Even Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\obj\Debug\Odd Even Number.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\obj\Debug\Odd Even Number.exe
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Odd Even Number\obj\Debug\Odd Even Number.pdb
