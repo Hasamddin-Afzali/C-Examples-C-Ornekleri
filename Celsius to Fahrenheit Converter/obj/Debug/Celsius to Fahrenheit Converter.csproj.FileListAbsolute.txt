@@ -1,0 +1,8 @@
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\bin\Debug\Celsius to Fahrenheit Converter.exe.config
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\bin\Debug\Celsius to Fahrenheit Converter.exe
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\bin\Debug\Celsius to Fahrenheit Converter.pdb
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\obj\Debug\Celsius to Fahrenheit Converter.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\obj\Debug\Celsius to Fahrenheit Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\obj\Debug\Celsius to Fahrenheit Converter.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\obj\Debug\Celsius to Fahrenheit Converter.exe
+C:\Users\hasan\Desktop\UNIVERSITY LESSONS\VISUAL PROGRAMMING\Celsius to Fahrenheit Converter\obj\Debug\Celsius to Fahrenheit Converter.pdb
